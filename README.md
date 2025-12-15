@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Garun Vagidov**
 ### Professional Programmer | Full-Stack & DevOps | Cloud & LLM Enthusiast
 
-I’m a seasoned **Full-Stack Software Engineer and Systems Architect** focused on building reliable, scalable systems and infrastructure at enterprise scale. I specialize in helping teams design, develop, and deploy modern applications — from cloud-native services to AI/LLM-powered platforms. :contentReference[oaicite:0]{index=0}
+I’m a seasoned **Full-Stack Software Engineer and Systems Architect** focused on building reliable, scalable systems and infrastructure at enterprise scale. I specialize in helping teams design, develop, and deploy modern applications — from cloud-native services to AI/LLM-powered platforms.
 
 ---
 
