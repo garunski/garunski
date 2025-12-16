@@ -8,5 +8,5 @@ I’m a seasoned **Full-Stack Software Engineer and Systems Architect** focused 
 | Platform | Link |
 |----------|------|
 | 🌐 Website | https://garunski.com/ |
-| 💼 LinkedIn | https://www.linkedin.com/ |
+| 💼 LinkedIn | https://www.linkedin.com/in/garunvagidov/ |
 | ✍️ Medium | https://garunski.medium.com/ |
